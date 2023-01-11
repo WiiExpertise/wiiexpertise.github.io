@@ -27,20 +27,24 @@ Here is a [link to our Discord](https://discord.gg/6fsXnTr)
 2. [Posting Guidelines](./rules/posting.md)
 
    General guidelines for posting on the subreddit.
+   
+3. [Official Wii Modding Guide](./guide/guide.md)
 
-3. [F.A.Q.s](./faqs/faqs.md)
+   The complete official guide to softmodding your Wii from start to finish
+
+4. [F.A.Q.s](./faqs/faqs.md)
  
    Frequently asked questions and posting advice.
 
-4. [Tutorials](./tutorials/tutorials.md) 
+5. [Tutorials](./tutorials/tutorials.md) 
     
    Tutorials for different tasks.
 
-5. [WiiDev](./wiidev/wiidev.md) 
+6. [WiiDev](./wiidev/wiidev.md) 
    
    Development on the Wii.
 
-6. [Useful Links](./links/links.md)
+7. [Useful Links](./links/links.md)
    
    Extra links.
 
